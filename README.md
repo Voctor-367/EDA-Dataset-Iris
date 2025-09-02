@@ -77,7 +77,7 @@ A análise revelou padrões claros que tornam este dataset ideal para tarefas de
 
 **Distribuição das Espécies**
 *O gráfico de barras mostra o perfeito balanceamento do dataset.*
-![Contagem por Espécie](assets/countplot.PNG)
+![Contagem por Espécie](assets/countplots.PNG)
 
 **Análise das Características por Espécie**
 *Os boxplots mostram a distribuição de cada medida, evidenciando a separabilidade da espécie Setosa.*
